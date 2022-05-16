@@ -1,11 +1,11 @@
 # style-repo
-https://github.com/yueran-z/element-plus-learning/blob/master/1-1-1.jpg?raw=true
+![](https://github.com/yueran-z/element-plus-learning/blob/master/1-1-1.jpg?raw=true)
 
-https://github.com/yueran-z/element-plus-learning/blob/master/1-1-2.jpg?raw=true
+![](https://github.com/yueran-z/element-plus-learning/blob/master/1-1-2.jpg?raw=true)
 
-https://github.com/yueran-z/element-plus-learning/blob/master/1-1-3.jpg?raw=true
+![](https://github.com/yueran-z/element-plus-learning/blob/master/1-1-3.jpg?raw=true)
 
-https://github.com/yueran-z/element-plus-learning/blob/master/1-1-4.jpg?raw=true
+![](https://github.com/yueran-z/element-plus-learning/blob/master/1-1-4.jpg?raw=true)
 ## Project setup
 ```
 npm install
